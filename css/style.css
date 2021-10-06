@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clearfix::after{
+    content: " ";
+    clear: both;
+    display: block;
+}
+.fixwidth{
+    max-width: 1270px;
+    margin: auto;
+}
+img{
+    max-width: 100%;
+}
+/*header-menu section */
+.header{
+    background-color: #22a6b3;
+}
+.header-left{
+    float: left;
+    width: 30%;
+}
+.header-left img{
+    height: auto;
+    width: 120px;
+    padding: 5px 0;
+}
+.header-right{
+    float: right;
+    width: 70%;
+}
+.header-right ul{
+    text-align: right;
+    margin: 0;
+}
+.header-right ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.header-right ul li a:hover{
+    background: #7ed6df;
+}
+.header-right ul li a{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 0 30px;
+    line-height: 50px;
+    border-right: 1px solid #fff;
+    transition: .4s;
+}
+/* banner-section */
+.banner{
+    background: url(../img/banner.jpg) no-repeat center;
+    background-size: cover;
+    padding: 250px 0;
+}
+.banner-caption h1{
+    font-family: 'Do Hyeon', sans-serif;
+    color: #E76D2C;
+    font-size: 50px;
+    
+}   
+.banner-caption h2{
+    color: #AA2E8C;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+/* about section */
+.about{
+    text-align: center;
+    background-color: #dff9fb;
+}
+.about h1{
+    padding: 20px 0;
+    color: #DA2038;
+    font-size: 50px;
+    font-family: 'Do Hyeon', sans-serif;
+
+}
+.about p{
+    font-size: 20px;
+}
+/* service section */
+.service{
+    padding: 20px 0;
+}
+.service-item{
+    float: left;
+    width: 32.3%;
+    text-align: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin: 0.5%;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.5);
+    background-color: #f1f2f638;
+    padding: 10px 0;
+}
+.service-item span{
+    background-color: aquamarine;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 0 10px 0 10px;
+}
+.service-item h3{
+    font-family: 'Do Hyeon', sans-serif;
+    color: #DA2038;
+
+
+}
+.service-item p{
+    font-size: 20px;
+}
+.service-item i{
+    font-size: 30px;
+}
+/* blog-section */
+.blog-container{
+    padding: 30px 0;
+}
+.blogleft{
+    float: left;
+    width: 70%;
+}
+.blogleft img{
+    float: left;
+    height: auto;
+    width: 300px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.blogleft p{
+    font-size: 20px;
+}
+.blogright{
+    float: right;
+    width: 25%;
+}
+.blogright h3{
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    font-family: 'Do Hyeon', sans-serif;
+    color: #DA2038;
+    font-size: 40px;
+
+
+}
+.blogright ul{
+    margin: 0;
+    list-style: none;
+}
+.blogright ul li{
+   font-size: 20px;
+   line-height: 50px;
+   border: 1px solid black;
+   margin-bottom: 20px;
+   border-radius: 10px;
+}
+.blogright ul li a{
+    text-decoration: none;
+    color: #000;
+    margin: 0 30px;
+}
+/* footer-section */
+.footer{
+    background-color: #2f3542;
+    text-align: center;
+}
+.footerleft{
+    float: left;
+    width: 50%;
+}
+.footerleft p{
+    color: white;
+    padding: 10px 10px;
+    margin: 0;
+
+}
+.footerright{
+    float: right;
+    width: 50%;
+}
+.footerright i{
+    color: white;
+    padding: 10px 10px;
+}
+
+
+
