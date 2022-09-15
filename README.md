@@ -10,3 +10,8 @@
   <li><h5>CSS3</h5></li>
   <li><h5>BOOTSTRAP</h5></li>
 </ul>
+  
+### 🎨PREVIEW 
+<img src="one.png" height="400" width="1200"/>
+<img src="three.png" height="400" width="1200"/>
+<img src="two.png" height="400" width="1200"/>
