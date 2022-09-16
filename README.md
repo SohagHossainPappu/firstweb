@@ -12,6 +12,10 @@
 </ul>
   
 ### 🎨PREVIEW 
-<img src="one.png" height="400" width="1200"/>
-<img src="three.png" height="400" width="1200"/>
-<img src="two.png" height="400" width="1200"/>
+<img src="img/one.png" height="400" width="1200"/>
+<img src="img/three.png" height="400" width="1200"/>
+<img src="img/two.png" height="400" width="1200"/>
+
+### 🔗🔗LIVE PREVIEW LINK
+
+[FIRST WEB](https://sohaghossainpappu.github.io/firstweb/)
