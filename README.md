@@ -13,6 +13,6 @@
   
 ### 🎨PREVIEW 
 <img src="img/one.png" height="400" width="1200"/>
-### 🔗🔗LIVE PREVIEW LINK:
+### LIVE PREVIEW LINK🔗🔗:
 
 [FIRST WEB](https://sohaghossainpappu.github.io/firstweb/)
